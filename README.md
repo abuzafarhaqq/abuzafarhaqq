@@ -21,7 +21,7 @@ src="https://raw.githubusercontent.com/abuzafarhaqq/abuzafarhaqq/9d704fd7ab1a68e
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/bash.png"/>][website]
 [<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/cplusplus.png"/>][website]
-[<img align="left" alt="haqqtech.com" width="22px"
+[<img align="left" alt="haqqtech.com" width="28px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/css3.jpg"/>][website]
 [<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/git.png"/>][website]
@@ -29,13 +29,13 @@ src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/git.png"/>][we
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/github.jpg"/>][website]
 [<img align="left" alt="haqqtech.com" width="28px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/html5.png"/>][website]
-[<img align="left" alt="haqqtech.com" width="28px"
+[<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/linux.png"/>][website]
-[<img align="left" alt="haqqtech.com" width="28px"
+[<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/python.png"/>][website]
-[<img align="left" alt="haqqtech.com" width="28px"
+[<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/sass.png"/>][website]
-[<img align="left" alt="haqqtech.com" width="28px"
+[<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/visualstudio.png"/>][website]
 
 <!-- links to various websites... -->
