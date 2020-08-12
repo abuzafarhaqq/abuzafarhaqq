@@ -13,20 +13,6 @@ src="https://raw.githubusercontent.com/abuzafarhaqq/abuzafarhaqq/9d704fd7ab1a68e
 src="https://raw.githubusercontent.com/abuzafarhaqq/abuzafarhaqq/9d704fd7ab1a68e631889bb9e999f4720c81169e/svg/twitter.svg"/>][twitter]
 [<img align="left" alt="HaqqTech | Linked In" width="22px" src="https://raw.githubusercontent.com/abuzafarhaqq/abuzafarhaqq/9d704fd7ab1a68e631889bb9e999f4720c81169e/svg/linkedin.svg"/>][linkedin]
 
-
-## **Languages And Tools:**
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/html5.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/css3.jpg"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/sass.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/python.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/cplusplus.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/visualstudio.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/git.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/github.jpg"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/bash.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/linux.png"/>]
-
-
 <!-- links to various websites... -->
 
 [website]: https://haqqtech.com
