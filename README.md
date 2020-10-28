@@ -1,7 +1,7 @@
 ### Hello World! This is [Abu Zafar Haque][facebookpage] - aka [HaqqTech][website]👋
 
 - 🔭 I’m currently working on [HaqqTech][website]
-- 🌱 I’m currently learning Web Developing
+- 🌱 I’m currently learning nothing!
 - 🤔 I’m looking for other content creator to collaborate
 - ⚡ Fun fact: :warning: I need :moneybag::moneybag::moneybag: Send it via [PATREON][patreon]
 
