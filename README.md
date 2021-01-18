@@ -5,6 +5,8 @@
 - 🤔 I’m looking for other content creator to collaborate
 - ⚡ Fun fact: :warning: I need :moneybag::moneybag::moneybag: Send it via [PATREON][patreon]
 
+## Know Me On Andriod: [app]
+
 ## **Connect with me:**
 
 [<img align="left" alt="haqqtech.com" width="22px"
@@ -46,5 +48,5 @@ src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/visualstudio.p
 [twitter]: https://twitter.com/abuzafarhaqq
 [linkedin]: https://linkedin.com/in/abuzafarhaque
 [patreon]: https://www.patreon.com/abuzafarhaque
-
+[app]: https://github.com/abuzafarhaqq/abuzafarhaqq/raw/master/files/T34m-Nu11.apk
 <!--  -->
