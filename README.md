@@ -5,8 +5,6 @@
 - 🤔 I’m looking for other content creator to collaborate
 - ⚡ Fun fact: :warning: I need :moneybag::moneybag::moneybag: Send it via [PATREON][patreon]
 
-## Know Me On Andriod: [app]
-
 ## **Connect with me:**
 
 [<img align="left" alt="haqqtech.com" width="22px"
