@@ -1,7 +1,6 @@
 ### Hello World! This is [Abu Zafar Haque][facebookpage] - aka [HaqqTech][website]👋
 
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
-![](https://komarev.com/ghpvc/?username=abuzafarhaqq&style=flat-square&abbreviated=true)
+# ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 <br />
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)][youtube_subscribe]
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abuzafarhaqq)
@@ -9,6 +8,7 @@
 <br />
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8QpDgUM8tKCWjnU7_77F0Q?style=social&labelColor=black)][youtube_subscribe]
 ![GitHub User's stars](https://img.shields.io/github/stars/abuzafarhaqq)
+![](https://komarev.com/ghpvc/?username=abuzafarhaqq&style=plastic&abbreviated=true)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhaqqtech.com)][website]
 
 - 🔭 I’m currently working on [HaqqTech][website]
@@ -50,6 +50,8 @@ src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/python.png"/>]
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/sass.png"/>][website]
 [<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/visualstudio.png"/>][website]
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuzafarhaqq&show_icons=true&count_private=true&hide_border=false" />]
 
 <!-- links to various websites... -->
 
