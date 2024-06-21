@@ -1,22 +1,24 @@
 ### Hello World! This is [Abu Zafar Haque][facebookpage] - aka [HaqqTech][website]👋
 
-# ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+
 <br />
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)][youtube_subscribe]
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abuzafarhaqq)
 ![GitHub followers](https://img.shields.io/github/followers/abuzafarhaqq)
+
 <br />
+
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8QpDgUM8tKCWjnU7_77F0Q?style=social&labelColor=black)][youtube_subscribe]
 ![GitHub User's stars](https://img.shields.io/github/stars/abuzafarhaqq)
-![](https://komarev.com/ghpvc/?username=abuzafarhaqq&style=plastic&abbreviated=true)
+![GitHub Pageview](https://komarev.com/ghpvc/?username=abuzafarhaqq&style=plastic&abbreviated=true)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhaqqtech.com)][website]
 
 - 🔭 I’m currently working on [HaqqTech][website]
 - 🌱 I’m currently learning nothing!
 - 🤔 I’m looking for other content creators to collaborate
 - ⚡ Fun fact: :warning: I need :moneybag::moneybag::moneybag: Send it via [PATREON][patreon]
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## **Connect with me:**
 
@@ -51,7 +53,19 @@ src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/sass.png"/>][w
 [<img align="left" alt="haqqtech.com" width="22px"
 src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/visualstudio.png"/>][website]
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuzafarhaqq&show_icons=true&count_private=true&hide_border=false" />]
+<br />
+
+### Random Jokes:
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+### Quotes For Developers:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### GitHub Profile Stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuzafarhaqq&show_icons=true&count_private=true&hide_border=false" />
 
 <!-- links to various websites... -->
 
