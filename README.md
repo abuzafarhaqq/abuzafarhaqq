@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [HaqqTech][website]
 - 🌱 I’m currently learning nothing!
-- 🤔 I’m looking for other content creator to collaborate
+- 🤔 I’m looking for other content creators to collaborate
 - ⚡ Fun fact: :warning: I need :moneybag::moneybag::moneybag: Send it via [PATREON][patreon]
 
 ## **Connect with me:**
@@ -12,6 +12,8 @@ src="https://raw.githubusercontent.com/abuzafarhaqq/abuzafarhaqq/9d704fd7ab1a68e
 [<img align="left" alt="HaqqTech | Twitter" width="22px"
 src="https://raw.githubusercontent.com/abuzafarhaqq/abuzafarhaqq/9d704fd7ab1a68e631889bb9e999f4720c81169e/svg/twitter.svg"/>][twitter]
 [<img align="left" alt="HaqqTech | Linked In" width="22px" src="https://raw.githubusercontent.com/abuzafarhaqq/abuzafarhaqq/9d704fd7ab1a68e631889bb9e999f4720c81169e/svg/linkedin.svg"/>][linkedin]
+
+<a href="https://www.youtube.com/channel/UC8QpDgUM8tKCWjnU7_77F0Q?view_as=subscriber?sub_confirmation=1"><a href="https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q" alt="youtube"></a></a>
 
 <br />
 
