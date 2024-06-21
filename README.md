@@ -1,6 +1,7 @@
 ### Hello World! This is [Abu Zafar Haque][facebookpage] - aka [HaqqTech][website]👋
 
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+![](https://komarev.com/ghpvc/?username=abuzafarhaqq&style=flat-square&abbreviated=true)
 <br />
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)][youtube_subscribe]
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abuzafarhaqq)
