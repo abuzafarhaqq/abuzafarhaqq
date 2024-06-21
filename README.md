@@ -1,6 +1,8 @@
 ### Hello World! This is [Abu Zafar Haque][facebookpage] - aka [HaqqTech][website]👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)][youtube_subscribe]
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8QpDgUM8tKCWjnU7_77F0Q?style=social&labelColor=black)][youtube_subscribe]
+
 
 - 🔭 I’m currently working on [HaqqTech][website]
 - 🌱 I’m currently learning nothing!
