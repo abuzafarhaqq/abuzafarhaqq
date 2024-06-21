@@ -1,9 +1,10 @@
 ### Hello World! This is [Abu Zafar Haque][facebookpage] - aka [HaqqTech][website]👋
 
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+<br />
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)][youtube_subscribe]
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abuzafarhaqq)
 ![GitHub followers](https://img.shields.io/github/followers/abuzafarhaqq)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abuzafarhaqq)
 <br />
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8QpDgUM8tKCWjnU7_77F0Q?style=social&labelColor=black)][youtube_subscribe]
 ![GitHub User's stars](https://img.shields.io/github/stars/abuzafarhaqq)
@@ -13,6 +14,8 @@
 - 🌱 I’m currently learning nothing!
 - 🤔 I’m looking for other content creators to collaborate
 - ⚡ Fun fact: :warning: I need :moneybag::moneybag::moneybag: Send it via [PATREON][patreon]
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ## **Connect with me:**
 
