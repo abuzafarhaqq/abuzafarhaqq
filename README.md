@@ -15,7 +15,7 @@
 - 🤔 I’m looking for other content creators to collaborate
 - ⚡ Fun fact: :warning: I need :moneybag::moneybag::moneybag: Send it via [PATREON][patreon]
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## **Connect with me:**
 
