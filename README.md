@@ -1,6 +1,6 @@
 ### Hello World! This is [Abu Zafar Haque][facebookpage] - aka [HaqqTech][website]👋
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)][youtube_subscribe]
 
 - 🔭 I’m currently working on [HaqqTech][website]
 - 🌱 I’m currently learning nothing!
@@ -51,4 +51,5 @@ src="https://github.com/abuzafarhaqq/abuzafarhaqq/blob/master/svg/visualstudio.p
 [linkedin]: https://linkedin.com/in/abuzafarhaque
 [patreon]: https://www.patreon.com/abuzafarhaque
 [app]: https://github.com/abuzafarhaqq/abuzafarhaqq/raw/master/files/T34m-Nu11.apk
+[youtube_subscribe]: https://www.youtube.com/channel/UC8QpDgUM8tKCWjnU7_77F0Q?view_as=subscriber?sub_confirmation=1
 <!--  -->
