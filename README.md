@@ -3,6 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8QpDgUM8tKCWjnU7_77F0Q)][youtube_subscribe]
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abuzafarhaqq)
 ![GitHub followers](https://img.shields.io/github/followers/abuzafarhaqq)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abuzafarhaqq)
 <br />
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8QpDgUM8tKCWjnU7_77F0Q?style=social&labelColor=black)][youtube_subscribe]
 ![GitHub User's stars](https://img.shields.io/github/stars/abuzafarhaqq)
