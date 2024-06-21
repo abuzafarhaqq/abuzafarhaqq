@@ -6,6 +6,7 @@
 <br />
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8QpDgUM8tKCWjnU7_77F0Q?style=social&labelColor=black)][youtube_subscribe]
 ![GitHub User's stars](https://img.shields.io/github/stars/abuzafarhaqq)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhaqqtech.com)][website]
 
 - 🔭 I’m currently working on [HaqqTech][website]
 - 🌱 I’m currently learning nothing!
